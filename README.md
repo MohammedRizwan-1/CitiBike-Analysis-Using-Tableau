@@ -55,7 +55,7 @@ Due to lockdown the usage of Citi Bikes decreased as people were working from ho
 
 When we turn our attention to different user types and service popularity, as it is fascinating to observe the most popular month was September 2019 and not to our surprise, April 2020 was the least popular month. Clearly, the pandemic was the reason why April was the least popular month but the data shows a gradual increase in usage especially towards the end of June 2020. In fact, we can see an increase in “Unknown” users toward the end of lockdown, by default these visualisations compare data from the previous year (June ‘19) as “Unknown” users more than doubled their usage. Female users increased their usage in comparison to the previous year, which decreased how much Males equate for in the data. Even with this observation, Males account for at least half of data and are the gender that use the service the most. 
 
-Lastly, I performed analysis on age range to see if the pandemic significantly impacted the age of users. Fascinatingly, there doesn’t seem to be any significant impact in this area of analysis. Overall, the service tends to most popular with customers born in 1969 and subscribers born in 1989. The only thing to draw from this, on average there is a 20 year age gap between the most frequently used age groups. 
+
 
 To conclude, the pandemic clearly had a significant impact on the Citi Bike service, the user type variance, bike hire frequency and station popularity.
 
